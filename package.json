@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ijg0341.github.io/team-horay-web/",
+  "homepage": "https://ijg0341.github.io/team-horay-web",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",

@@ -5,6 +5,7 @@ import path from 'path'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
+  base: '/team-horay-web/',
   build: { outDir: 'build' },
   resolve: {
     alias: {
